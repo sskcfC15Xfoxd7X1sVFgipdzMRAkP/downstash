@@ -33,7 +33,7 @@ describe("publish route", () => {
     // Wire the Client's fetch through our in-process Hono app.
     const realFetch = global.fetch;
     global.fetch = ((req: Request | string | URL, init?: RequestInit) => {
-      const request = req instanceof Request ? req : new Request(req as string | URL, init);
+      const request = req instanceof Request ? req : new Request(String(req), init);
       return app.fetch(request);
     }) as typeof fetch;
 

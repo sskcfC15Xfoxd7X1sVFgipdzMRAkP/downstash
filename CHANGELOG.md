@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.1.2](https://github.com/sskcfC15Xfoxd7X1sVFgipdzMRAkP/downstash/compare/v0.1.1...v0.1.2) (2026-05-01)
+
+
+### Bug Fixes
+
+* format package.json files array on single line ([b792564](https://github.com/sskcfC15Xfoxd7X1sVFgipdzMRAkP/downstash/commit/b792564e07b6d162f90dc8f65f75ee16c8c7a017))
+
+
+### Documentation
+
+* add GitHub Pages landing page ([98f07c7](https://github.com/sskcfC15Xfoxd7X1sVFgipdzMRAkP/downstash/commit/98f07c721a5509630b2c3b9bc23eaff38be1d78f))
+* fix nav links and remove stale version/star badges ([84111c1](https://github.com/sskcfC15Xfoxd7X1sVFgipdzMRAkP/downstash/commit/84111c1a2bbe600dd4cda627b988750f93021c0c))
+
 ## [0.1.1](https://github.com/sskcfC15Xfoxd7X1sVFgipdzMRAkP/downstash/compare/v0.1.0...v0.1.1) (2026-04-30)
 
 
